@@ -1,0 +1,202 @@
+[
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "a4e951b7-4321-4321-a29e-123456789abc",
+    "name": "Naruto Uzumaki 🌀🍜",
+    "email": "naruto.uzumaki@example.com",
+    "phone": "9876543210",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "b6e2df74-4322-4e23-99c8-098765432def",
+    "name": "Sasuke Uchiha 🌌⚡",
+    "email": "sasuke.uchiha@example.com",
+    "phone": "8765432109",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "c8a3df45-1234-5678-bcde-abcdef123456",
+    "name": "Goku 🐉💪",
+    "email": "goku@example.com",
+    "phone": "7654321098",
+    "liked": true,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "d9b4cf56-8765-4321-b98e-fedcba654321",
+    "name": "Vegeta 🌟👊",
+    "email": "vegeta@example.com",
+    "phone": "6543210987",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "e1c5d678-5432-2109-cdef-123abc456789",
+    "name": "Ichigo Kurosaki ⚔️🍓",
+    "email": "ichigo.kurosaki@example.com",
+    "phone": "5432109876",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "f2d6e789-3210-1098-bcaf-456def123987",
+    "name": "Luffy D. Monkey 🏴‍☠️🍖",
+    "email": "luffy.monkey@example.com",
+    "phone": "4321098765",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "g3e7f890-1987-6543-21ba-fedcba098765",
+    "name": "Zoro Roronoa 🗡️🍃",
+    "email": "zoro.roronoa@example.com",
+    "phone": "3210987654",
+    "liked": true,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "h4f8g901-2109-8765-cdab-123456789abc",
+    "name": "Natsu Dragneel 🔥🐲",
+    "email": "natsu.dragneel@example.com",
+    "phone": "2109876543",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "i5g9h012-4321-0987-b98e-f12d345c6789",
+    "name": "Erza Scarlet 🛡️🌹",
+    "email": "erza.scarlet@example.com",
+    "phone": "1098765432",
+    "liked": true,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "j6h0i123-9876-5432-bcaf-456789012abc",
+    "name": "Levi Ackerman ⚔️🍷",
+    "email": "levi.ackerman@example.com",
+    "phone": "1987654321",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "k7i1j234-6543-3210-cdef-12345abcdefg",
+    "name": "Hinata Hyuga 🌸🌞",
+    "email": "hinata.hyuga@example.com",
+    "phone": "9087654321",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "l8j2k345-7654-4321-bacd-098765432fed",
+    "name": "Sakura Haruno 🌸👊",
+    "email": "sakura.haruno@example.com",
+    "phone": "8076543219",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "m9k3l456-8765-5432-bcef-456789abcdef",
+    "name": "Shoto Todoroki ❄️🔥",
+    "email": "shoto.todoroki@example.com",
+    "phone": "7065432198",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "n0l4m567-9876-6543-cdef-123abcd45678",
+    "name": "Midoriya Izuku 🌟💪",
+    "email": "midoriya.izuku@example.com",
+    "phone": "6054321987",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "o1m5n678-4321-7654-bcad-987654321fed",
+    "name": "Edward Elric ⚙️🪙",
+    "email": "edward.elric@example.com",
+    "phone": "5043219876",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "p2n6o789-2109-6543-cdef-abcdef123456",
+    "name": "Alphonse Elric 🛡️🐱",
+    "email": "alphonse.elric@example.com",
+    "phone": "4032198765",
+    "liked": true,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "q3o7p890-5432-9876-bacf-45678abcdefg",
+    "name": "Killua Zoldyck ⚡🍬",
+    "email": "killua.zoldyck@example.com",
+    "phone": "3021987654",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "r4p8q901-8765-4321-cdab-09876abcdefg",
+    "name": "Gon Freecss 🦸🌳",
+    "email": "gon.freecss@example.com",
+    "phone": "2019876543",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "s5q9r012-6543-2109-bcaf-45678abcdefg",
+    "name": "Light Yagami 🕯️📖",
+    "email": "light.yagami@example.com",
+    "phone": "1098765432",
+    "liked": true,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  },
+  {
+    "userId": "71b8151e-79ed-494c-bacf-12fb081281ba",
+    "contact_id": "t6r0s123-2109-8765-cdef-12345abcdefg",
+    "name": "Ryuk 🍎👹",
+    "email": "ryuk@example.com",
+    "phone": "0987654321",
+    "liked": false,
+    "createdAt": "2024-12-04T15:14:29.290Z",
+    "updatedAt": "2024-12-04T15:14:29.290Z"
+  }
+]
